@@ -16,8 +16,13 @@ public class Btvnbuoi2_bai3 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
-        System.out.println("nhap so nguyen duong n: ");
-        int n = scanner.nextInt();
+        int n;
+        do{
+            System.out.print("nhap so nguyen duong n: ");
+            n = scanner.nextInt();
+            
+        }while ( n  < 0);
+        
         int dem = 0;
         for(int i=1;i<=n;i++){
             if (n%i==0){
