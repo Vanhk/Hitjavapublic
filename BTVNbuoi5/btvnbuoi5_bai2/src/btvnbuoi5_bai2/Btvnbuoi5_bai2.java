@@ -2,20 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package testbuoi4;
+package btvnbuoi5_bai2;
 
 /**
  *
  * @author VANH
  */
-public class Testbuoi4 {
+public class Btvnbuoi5_bai2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
     }
     
 }
